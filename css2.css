@@ -1,0 +1,27 @@
+#img{
+    width: 100%;
+}
+#carouselExampleAutoplaying{
+    width: 23vw; 
+    margin-left: 37%;
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+#text{
+    text-align: center;
+    }
+#text2{
+    text-align: center;
+    }
+@media screen and (max-width: 600px) {
+    #text{
+        font-size: 110%;
+    }
+    #text2{
+        font-size: 80%;
+    }
+    #carouselExampleAutoplaying{
+        width: 53vw; 
+        margin-left: 26%;
+    }
+}

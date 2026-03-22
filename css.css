@@ -1,5 +1,13 @@
+#carouselExampleAutoplaying{
+    width: 33vw; 
+    margin-left: 30%;
+}
 @media screen and (max-width: 600px) {
     footer{
         font-size: 10px;
+    }
+    #carouselExampleAutoplaying{
+    width: 73vw; 
+    margin-left: 15%;
     }
 }
