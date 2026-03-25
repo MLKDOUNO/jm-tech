@@ -1,9 +1,10 @@
 #carouselExampleAutoplaying{
-    width: 33vw; 
+    width: 33vw;
     margin-left: 30%;
 }
 #it{
     margin-left: 3px;
+    margin-bottom: 4px;
 }
 @media screen and (max-width: 600px) {
     footer{
